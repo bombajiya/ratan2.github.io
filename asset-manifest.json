@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactratan/static/css/main.7cf5a067.css",
-    "main.js": "/reactratan/static/js/main.96ef737c.js",
+    "main.js": "/reactratan/static/js/main.836dda8c.js",
     "static/js/787.69a681a6.chunk.js": "/reactratan/static/js/787.69a681a6.chunk.js",
     "index.html": "/reactratan/index.html",
     "main.7cf5a067.css.map": "/reactratan/static/css/main.7cf5a067.css.map",
-    "main.96ef737c.js.map": "/reactratan/static/js/main.96ef737c.js.map",
+    "main.836dda8c.js.map": "/reactratan/static/js/main.836dda8c.js.map",
     "787.69a681a6.chunk.js.map": "/reactratan/static/js/787.69a681a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cf5a067.css",
-    "static/js/main.96ef737c.js"
+    "static/js/main.836dda8c.js"
   ]
 }
